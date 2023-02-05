@@ -1,6 +1,7 @@
 ### Hi there. I am Apurve 👋
 
 I am a Data Scientist and a Machine Learning Engineer. I am from a town called Meerut, in Uttar Pradesh, India. 
+
 I have been engineering ML piplelines and wragling data since 2016. 
 
 Although the I love the process of training models, specially Transfer Learning ones, where one can use relatively small amount of data to get usefull results (in NLP), I have always been more enamoured by the their final output, product that uses them, and it's effect on the world 
