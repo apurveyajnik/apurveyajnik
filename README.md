@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there. I am Apurve 👋
+
+I am a Data Scientist and a Machine Learning Engineer. I am from a town called Meerut, in Uttar Pradesh, India. I have be engineering ML piplelines and wragling data since 2015. Although the I am love the process of training models, scpecially Deep Learning (or Transfer learning) models. I have always been more enamoured by the their final output or product that uses them, and it's effect on the world.
+For this reason the most of my work is in form of closed source products live on some or other AWS instance.
+
 
 <!--
 **apurveyajnik/apurveyajnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
