@@ -8,7 +8,7 @@ Although the I love the process of training models, specially Transfer Learning 
 For this reason the most of my work is in the form of closed source products live on some or other AWS instance. 
 
 - 🔭 I’m currently working on building systems for keeping drivers and fleets safe, and on time at DriveBuddyAI
-- ⚡ No so fun fact: According to WHO approximatly 1.3 Million people die of road traffic accidents each year.
+- ⚡ Not so fun fact: According to WHO approximatly 1.3 Million people die of road accidents each year.
 
 
 <!--
